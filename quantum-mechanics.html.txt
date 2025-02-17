@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction to Quantum Mechanics</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Introduction to Quantum Mechanics</h1>
+        <a href="index.html">Back to Homepage</a>
+    </header>
+    <section>
+        <h2>What is Quantum Mechanics?</h2>
+        <p>Quantum mechanics is the branch of physics that deals with the behavior of particles on the atomic and subatomic scales. Unlike classical physics, quantum mechanics describes phenomena that cannot be explained by traditional laws of motion, such as the behavior of electrons in atoms and the dual nature of light.</p>
+
+        <h3>Key Concepts in Quantum Mechanics</h3>
+        <ul>
+            <li><strong>Wave-Particle Duality:</strong> Particles like electrons exhibit both particle-like and wave-like properties.</li>
+            <li><strong>Superposition:</strong> A particle can exist in multiple states at once, and only when measured does it "collapse" into one state.</li>
+            <li><strong>Quantum Entanglement:</strong> Two particles can be correlated in such a way that the state of one instantly affects the state of the other, even at great distances.</li>
+            <li><strong>Heisenberg Uncertainty Principle:</strong> It is impossible to precisely measure both the position and momentum of a particle at the same time.</li>
+        </ul>
+
+        <h3>Famous Experiments</h3>
+        <p>Some of the most important experiments that led to the development of quantum mechanics include:</p>
+        <ul>
+            <li><strong>Double-Slit Experiment:</strong> Demonstrates the wave-particle duality of light and particles.</li>
+            <li><strong>Photoelectric Effect:</strong> Explained by Albert Einstein, showing how light can be thought of as particles called photons.</li>
+            <li><strong>Quantum Entanglement Experiment:</strong> Demonstrates the phenomenon where particles can be linked across distances.</li>
+        </ul>
+
+        <h3>Applications of Quantum Mechanics</h3>
+        <p>Quantum mechanics has led to the development of many modern technologies, including:</p>
+        <ul>
+            <li>Semiconductors used in computers</li>
+            <li>Lasers</li>
+            <li>Quantum computers (future technology)</li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2025 Pavan Gaonkar</p>
+    </footer>
+</body>
+</html>
